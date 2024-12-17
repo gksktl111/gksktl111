@@ -31,7 +31,7 @@
 ### 📈 **깃허브 활동**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gksktl111&show_icons=true&theme=react&hide_border=true" width="48%" />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?gksktl111=anuraghazra&layout=compact)
+   <div> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?gksktl111=anuraghazra&layout=compact)</div>
 </div>
 
 ---
