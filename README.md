@@ -2,7 +2,7 @@
 <h3 align="center">React와 최신 웹 기술로 더 나은 사용자 경험을 만듭니다.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D1FF&center=true&width=435&lines=프론트엔드+개발자;React+%7C+Next.js+%7C+TypeScript;클린+코드+%7C+효율적인+UI+구현;배우고+성장하는+개발자" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&weight=600&pause=1000&color=000000&center=true&width=600&lines=프론트엔드+개발자;React+%7C+Next.js+%7C+TypeScript;클린+코드+%7C+효율적인+UI+구현;배우고+성장하는+개발자" />
 </p>
 
 ---
