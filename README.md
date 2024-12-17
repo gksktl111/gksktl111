@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">안녕하세요 👋, 프론트엔드 개발자 박민규 입니다!</h1>
+<h3 align="center">React와 최신 웹 기술로 더 나은 사용자 경험을 만듭니다.</h3>
 
-<!--
-**gksktl111/gksktl111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D1FF&center=true&width=435&lines=프론트엔드+개발자;React+%7C+Next.js+%7C+TypeScript;클린+코드+%7C+효율적인+UI+구현;배우고+성장하는+개발자" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 **기술 스택**
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+</div>
+
+---
+
+### 🚀 **저에 대해**
+- 🌱 **Next.js**와 **React**를 활용한 최신 웹 기술을 학습하고 있습니다.  
+- 🛠 웹 페이지의 **성능 최적화**와 **사용자 친화적 인터페이스**에 관심이 많습니다.  
+- 💡 **클린 코드**와 **유지보수 가능한 코드**를 지향합니다.  
+- 🎯 목표는 **빠르고 직관적인 UI**를 만들어 사용자 경험을 극대화하는 것입니다.  
+
+---
+
+### 📈 **깃허브 활동**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=당신의깃허브아이디&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=당신의깃허브아이디&theme=react&hide_border=true" width="48%" />
+</div>
+
+---
+
+### 🌟 **연락처**
+<p align="center">
+  <a href="https://linkedin.com/in/당신의링크드인아이디" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:당신의이메일주소" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
