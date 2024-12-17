@@ -37,10 +37,7 @@
 
 ### 🌟 **연락처**
 <p align="center">
-  <a href="https://linkedin.com/in/당신의링크드인아이디" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:당신의이메일주소" target="_blank">
+  <a href="mailto:medic6655@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
