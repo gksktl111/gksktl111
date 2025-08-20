@@ -28,7 +28,7 @@
 
 ### 📈 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=[유저네임]&theme=onedark&no-frame=true&no-bg=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=[gksktl111]&theme=onedark&no-frame=true&no-bg=true)
 
 ---
 
