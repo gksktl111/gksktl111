@@ -1,6 +1,6 @@
 ### 안녕하세요! 👋 저는 개발자 박민규입니다.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[gksktl111]&theme=radical&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gksktl111&theme=radical&show_icons=true)
 
 ---
 
