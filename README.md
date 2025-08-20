@@ -1,4 +1,4 @@
-### 안녕하세요! 👋 저는 프론트엔드 개발자 [이름]입니다.
+### 안녕하세요! 👋 저는 개발자 박민규입니다.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[gksktl111]&theme=radical&show_icons=true)
 
@@ -29,7 +29,3 @@
 ### 📈 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=[gksktl111]&theme=onedark&no-frame=true&no-bg=true)
-
----
-
-### ✍️ My Blog Posts
