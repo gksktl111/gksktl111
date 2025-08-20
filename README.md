@@ -1,16 +1,15 @@
 ### 안녕하세요! 👋 저는 프론트엔드 개발자 [이름]입니다.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[유저네임]&theme=radical&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[gksktl111]&theme=radical&show_icons=true)
 
 ---
 
 ### 🌟 About Me
 
-저는 사용자 경험을 최우선으로 생각하며, 깔끔하고 효율적인 코드를 작성하는 것을 좋아합니다. 특히 [관심 분야]에 깊은 관심을 가지고 있으며, 새로운 기술을 배우고 적용하는 것을 즐깁니다.
+저는 사용자 경험을 최우선으로 생각하며, 깔끔하고 효율적인 코드를 작성하는 것을 좋아합니다. 특히 UX에 깊은 관심을 가지고 있으며, 새로운 기술을 배우고 적용하는 것을 즐깁니다.
 
-- 💬 현재 [현재 관심사 또는 공부하고 있는 기술]에 대해 공부하고 있습니다.
-- 📫 저에게 연락하고 싶으시면 [이메일 주소]로 보내주세요.
-- 🔗 더 많은 정보는 제 블로그나 개인 웹사이트인 [블로그/웹사이트 링크]에서 확인하실 수 있습니다.
+- 💬 현재 실시간 서비스에 대해 공부하고 있습니다.
+- 📫 저에게 연락하고 싶으시면 medic6655@gmail로 보내주세요.
 
 ---
 
